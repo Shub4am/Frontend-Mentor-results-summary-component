@@ -248,19 +248,19 @@ p {
   margin-top: 16px;
 }
 
-h4 {
+h3 {
   font-size: 18px;
 }
 
-.summary-wrapper h4 {
+.summary-wrapper h3 {
   margin-right: 16px;
 }
 
-h4 span:first-child {
+h3 span:first-child {
   color: var(--muted);
 }
 
-h4 span:last-child {
+h3 span:last-child {
   opacity: 0.5;
 }
 
